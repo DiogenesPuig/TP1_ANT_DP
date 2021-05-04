@@ -1,9 +1,9 @@
 #Mario Perez
 Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto
 
-Tu calle, 123
+Tu calle, 1234
 12345 Tu ciudad (Provincia)
-(34) 123 000 000
+(34) 123 000 12345
 no_reply@example.com
 ##EXPERIENCIA
 Empresa, Ciudad: puesto
