@@ -1,4 +1,4 @@
-#Tu nombre
+#Mario Perez
 Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto
 
 Tu calle, 123
@@ -26,15 +26,15 @@ Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
 Nombre del proyecto: detalles
 Escribe aquí tu texto Escribe aquí tu texto.
 ##APTITUDES
-Escribe aquí tu texto.
-Escribe aquí tu texto.
-Escribe aquí tu texto Escribe aquí tu texto.
-Escribe aquí tu texto Escribe aquí tu texto.
+> Escribe aquí tu texto.
+> Escribe aquí tu texto.
+> Escribe aquí tu texto Escribe aquí tu texto.
+> Escribe aquí tu texto Escribe aquí tu texto.
 ##LOGROS
-Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto
-Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
-Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto
-Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
+- Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto
+- Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
+- Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto
+- Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
 ##IDIOMAS
 Escribe aquí tu texto Escribe aquí tu texto
 
